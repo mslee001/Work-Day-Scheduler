@@ -1,7 +1,7 @@
 # bootcamp-week5-hw
 Work Day Scheduler
 
-Link to app: https://mslee001.github.io/bootcamp-week5-hw/
+Link to app: https://mslee001.github.io/Work-Day-Scheduler/
 
 <img src="screenshots/work-day-scheduler.PNG"/>
 
